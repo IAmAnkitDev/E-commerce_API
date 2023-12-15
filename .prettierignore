@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+.env
+package-lock.json
+package.json
+yarn.lock
+Dockerfile
+.gitignore
+prettierrc.json
